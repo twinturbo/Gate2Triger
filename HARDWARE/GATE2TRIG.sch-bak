@@ -984,5 +984,5 @@ Wire Wire Line
 	7000 4500 7150 4500
 Connection ~ 7150 4500
 Text Notes 7100 7100 0    118  ~ 0
-DRAF UNTRESTED 13/07/2020 -- TwinTurbo
+13/07/2020 -- TwinTurbo V1.0.0
 $EndSCHEMATC
